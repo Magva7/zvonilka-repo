@@ -1,4 +1,5 @@
 {
   "versionCode": 90,
-  "apkUrl": "https://raw.githubusercontent.com/Magva7/zvonilka-repo/main/Zvonilka_latest.apk"
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/Magva7/zvonilka-repo/releases/download/1.4.2/Zvonilka_v1_4_2.apk"
 }
